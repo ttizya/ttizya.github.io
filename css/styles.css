@@ -1,0 +1,67 @@
+/*Main sections in chronological order*/
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1;
+  color: #333;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+td {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.title {
+  margin-top: 0;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: 'Sacramento', cursive;
+}
+
+.top_container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle_container {
+}
+
+.bottom_container {
+}
+
+.contact-me {
+}
+
+/*GRAPHICS*/
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain {
+
+}
+
+.computer {
+
+}
