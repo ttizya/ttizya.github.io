@@ -69,26 +69,12 @@ hr {
 .middle_container {}
 
 .bottom_container {
-
   background-color: #66BFBF;
 }
 
 .contact-me {}
 
 /*GRAPHICS*/
-.cloud1 {
-  position: absolute;
-  right: 300px;
-  top: 50px;
-}
-
-.cloud2 {
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
-}
-
-.mountain {}
 
 .computer {
   width: 25%;
@@ -119,9 +105,4 @@ button {
 .footer-link {
   margin-left: 20px;
   margin-right: 20px;
-  margin-bottom: 20px;
-}
-
-.icon-credit {
-  font-size: 0.5rem;
 }
