@@ -68,11 +68,27 @@ hr {
 
 .middle_container {}
 
-.bottom_container {}
+.bottom_container {
+
+  background-color: #66BFBF;
+}
 
 .contact-me {}
 
 /*GRAPHICS*/
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain {}
 
 .computer {
   width: 25%;
@@ -86,4 +102,26 @@ hr {
   width: 25%;
   margin-left: 40px;
   margin-top: 15px;
+}
+
+button {
+  background-color: #ff0000;
+  color: #ffffff;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 10px;
+}
+
+.footer-link {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.icon-credit {
+  font-size: 0.5rem;
 }
