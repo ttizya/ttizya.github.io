@@ -73,19 +73,6 @@ hr {
 .contact-me {}
 
 /*GRAPHICS*/
-.cloud1 {
-  position: absolute;
-  right: 300px;
-  top: 50px;
-}
-
-.cloud2 {
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
-}
-
-.mountain {}
 
 .computer {
   width: 25%;
