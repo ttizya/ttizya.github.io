@@ -1,51 +1,78 @@
 /*Main sections in chronological order*/
-
 body {
   margin: 0;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  line-height: 1;
-  color: #333;
+  font-size: 200%;
+}
+
+a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+  color: #11999E;
+}
+
+h1 {
+  font-size: 5.625rem;
+  /*90px*/
+  margin: 50px auto 0 auto;
+  color: #b30000;
 }
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
-}
-
-
-td {
   font-family: 'Open Sans', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #ffffff;
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  color: #b30000;
+  margin: 100px auto 10px auto;
 }
 
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+  color: #ff8080
+}
 
-.title {
-  margin-top: 0;
-  margin: 0 auto;
-  padding: 10px;
-  font-family: 'Sacramento', cursive;
+p {
+  font-size: 1.5rem;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  width: 10%;
+  border-color: grey;
+  border-width: 5px;
+  margin-top: 100px;
 }
 
 .top_container {
-  background-color: #E4F9F5;
+  background-color: #e0e0eb;
   position: relative;
   padding-top: 100px;
+  background-image: url("https://s4827.pcdn.co/wp-content/uploads/2019/03/Keychron_K1_3.jpg");
 }
 
-.middle_container {
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
 }
 
-.bottom_container {
-}
+.middle_container {}
 
-.contact-me {
-}
+.bottom_container {}
+
+.contact-me {}
 
 /*GRAPHICS*/
-
 .cloud1 {
   position: absolute;
   right: 300px;
@@ -58,10 +85,18 @@ h3 {
   bottom: 300px;
 }
 
-.mountain {
-
-}
+.mountain {}
 
 .computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 10px;
+}
 
+.mpdesign {
+  float: right;
+  width: 25%;
+  margin-left: 40px;
+  margin-top: 15px;
 }
